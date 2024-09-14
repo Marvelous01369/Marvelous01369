@@ -15,6 +15,6 @@ This project is a simple network sniffer tool designed to capture and analyze ne
 1. Install the required dependencies:
 2.   pip install -r requirements.txt
 
-##Run the sniffer
+## Run the sniffer
 python sniffer.py
 
