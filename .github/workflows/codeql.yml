@@ -54,4 +54,3 @@ jobs:
       - name: Post-process results (optional)
         if: always()
         run: |
-          # Post-processing or notification logic can be added here, such as creating issues for high-severity findings
